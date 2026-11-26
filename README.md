@@ -9,7 +9,7 @@ uniaxial compression, from three independent models:
 | Frame finite elements | across the corrugations | The real profile meshed with plane-strain beam elements, linear eigenvalue buckling |
 | Finite strips | along the corrugations | Every flat of the profile as a plate strip with membrane and bending action; local and global buckling in one model |
 
-**Interactive simulator:** https://veloyfernandes.github.io/buckling/
+**Interactive simulator:** https://veloyfernandes.com/buckling/
 
 This is a rebuilt and corrected version of my MSc dissertation, *Buckling
 Analysis of Corrugated Panels* (Swansea University, 2023, supervised by
