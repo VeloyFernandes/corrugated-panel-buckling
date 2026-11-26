@@ -120,12 +120,39 @@ compression. No imperfections, post-buckling or shear deformation; isotropic
 sheet. Fixed ends along the corrugations use the effective length. The design
 load from the column curve is an indication, not a code check.
 
-## Reference
+## References
 
-Y. Xia, M. I. Friswell, E. I. Saavedra Flores (2012). Equivalent models of
-corrugated panels. *International Journal of Solids and Structures* 49,
-1453-1462.
+1. Y. Xia, M. I. Friswell and E. I. Saavedra Flores (2012). Equivalent models
+   of corrugated panels. *International Journal of Solids and Structures* 49,
+   1453-1462.
+2. S. P. Timoshenko and J. M. Gere (1961). *Theory of Elastic Stability*, 2nd
+   ed. McGraw-Hill. Euler strut and orthotropic plate buckling.
+3. Y. K. Cheung (1976). *Finite Strip Method in Structural Analysis*.
+   Pergamon Press.
+4. EN 1993-1-1:2005. *Eurocode 3: Design of steel structures, Part 1-1:
+   General rules and rules for buildings*. CEN. Column buckling curves.
+5. V. Fernandes (2023). *Buckling Analysis of Corrugated Panels*. Dissertation,
+   Swansea University, supervised by Dr Yuying Xia.
+
+## Declarations
+
+- **Authorship.** This repository is my own work. It rebuilds and corrects my
+  2023 dissertation (reference 5); the values marked "Dissertation" in the
+  table are quoted from it unchanged.
+- **Independence.** This is a personal project, completed after the
+  dissertation was assessed. It has not been reviewed or endorsed by Swansea
+  University or by the supervisor, and the corrections above are my own.
+- **No commercial software or data.** No Ansys or MATLAB files beyond my own
+  script are included; Ansys results appear only as numbers quoted from the
+  dissertation.
+- **Trademarks.** Ansys is a trademark of Ansys, Inc. MATLAB is a trademark of
+  The MathWorks, Inc. They are named only to describe the original study.
+
+## Citing
+
+If you use this code, please cite it with the metadata in
+[`CITATION.cff`](CITATION.cff) (GitHub shows a "Cite this repository" button).
 
 ## Licence
 
-MIT
+The code is released under the [MIT Licence](LICENSE).

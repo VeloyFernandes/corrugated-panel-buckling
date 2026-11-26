@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Buckling of corrugated panels"
+abstract: "Critical buckling loads of flat, trapezoidal and round corrugated panels from an equivalent orthotropic plate, frame finite elements and finite strips."
+authors:
+  - family-names: Fernandes
+    given-names: Veloy
+type: software
+license: MIT
+repository-code: "https://github.com/VeloyFernandes/corrugated-panel-buckling"
+url: "https://veloyfernandes.com/buckling/"
+date-released: 2026-11-26
+keywords:
+  - buckling
+  - corrugated panels
+  - finite strip method
+  - finite element method
+  - structural stability
